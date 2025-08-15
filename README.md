@@ -2,7 +2,7 @@
 
 > **A modern, responsive, and user-friendly website for our NGO, built to connect with people, inspire change, and make a difference.**
 
-![NGO Banner](https://via.placeholder.com/1000x300?text=EVERGREEN+NGO+Website)
+![NGO Banner]http://127.0.0.1:5500/templates/mainngopage.html)
 
 ---
 
@@ -58,8 +58,8 @@ NGO-PROJECT/
 
 ## 📸 Screenshots
 > *(Add real screenshots here after hosting the project)*  
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)  
-![Volunteer Form](https://via.placeholder.com/800x400?text=Volunteer+Form)  
+![Home Page](http://127.0.0.1:5500/templates/mainngopage.html)  
+![Volunteer Form](http://127.0.0.1:5500/templates/volunteer.html)  
 
 ---
 
