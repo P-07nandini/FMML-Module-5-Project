@@ -1,8 +1,71 @@
-# Project : Classification II | Foundations of Modern Machine Learning Project
+# 🌿 EVERGREEN – NGO Website
 
-This mini-project tries to solve the computer-vision task of identifying the 
-number of fingers held up in front of a camera using fundamental and basic ML
-Algorithms. The intent is to explain and teach the pros and cons of learning 
-algorithms like Decision Trees, Random Forests, Support Vector Machines, et 
-cetera. This repo is a part of the course offered by iHub, IIIT Hyderabad : 
-Foundations of Modern Machine Learning.
+> **A modern, responsive, and user-friendly website for our NGO, built to connect with people, inspire change, and make a difference.**
+
+![NGO Banner](https://via.placeholder.com/1000x300?text=EVERGREEN+NGO+Website)
+
+---
+
+## 📌 Overview
+EVERGREEN is a web platform designed for a Non-Governmental Organization to:
+- Showcase its mission and activities
+- Connect with volunteers and donors
+- Share updates and events
+- Accept donations online
+
+---
+
+## 🚀 Features
+✅ **Responsive Design** – Works on desktops, tablets, and mobiles  
+✅ **Volunteer Registration** – Easy sign-up process  
+✅ **Donation Page** – Simple and secure interface  
+✅ **Activities Page** – Show past and upcoming events  
+✅ **Contact Us** – Stay in touch with supporters  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS  
+- **Backend:** Flask (Python)  
+- **Templates:** Jinja2  
+- **Hosting:** GitHub / Local Server  
+
+---
+
+## 📂 Folder Structure
+NGO-PROJECT/
+│── app.py
+│── templates/
+│ ├── aboutus.html
+│ ├── activities.html
+│ ├── contacus.html
+│ ├── donate.html
+│ ├── getinvolved.html
+│ ├── help.html
+│ ├── joinwithus.html
+│ ├── mainngopage.html
+│ ├── registration.html
+│ └── volunteer.html
+│── static/
+│ ├── css/
+│ ├── images/
+│ └── js/
+
+
+
+
+---
+
+## 📸 Screenshots
+> *(Add real screenshots here after hosting the project)*  
+![Home Page](https://via.placeholder.com/800x400?text=Home+Page)  
+![Volunteer Form](https://via.placeholder.com/800x400?text=Volunteer+Form)  
+
+---
+
+## 📬 Contact
+**👩‍💻 Developer:** *Nandini Pamidi*  
+**📧 Email:** pamidi98765@gmail.com  
+**🌐 GitHub:** [P-07nandini](https://github.com/P-07nandini)
+
+---
